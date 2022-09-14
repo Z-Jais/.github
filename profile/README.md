@@ -4,8 +4,8 @@ Jaïs is a open source project that aims to collect all anime episodes available
 
 ## Today's structure
 
-<img src="../assets/today_structure.png" alt="Today's structure">
+<img src="https://github.com/Z-Jais/.github/blob/main/assets/today_structure.png?raw=true" alt="Today's structure">
 
 ## Planned structure
 
-<img src="../assets/planned_structure.png" alt="Planned structure">
+<img src="https://github.com/Z-Jais/.github/blob/main/assets/planned_structure.png?raw=true" alt="Planned structure">
